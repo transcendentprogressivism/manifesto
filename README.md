@@ -1,10 +1,10 @@
 # The Transcendent Progressivism (t/prog) Manifesto: A Vision for Humanity's Future
-Authored by [mel (@vmfunc)](https://twitter.com/vmfunc), [giatt (@1owroller)](https://x.com/1owroller), and anonymous contributors.   
+Authored by [mel (@vmfunc)](https://twitter.com/vmfunc), [giatt (@1owroller)](https://x.com/1owroller), GitHub and anonymous contributors.   
 Version 1.0.0
 
 ## Manifesto Information
 
-This manifesto is not finite. It will and can be updated by the community at any time through GitHub Pull Requests. If you'd like to contribute to this manifesto, please directly head to [/manifesto](https://github.com/transcendentprogressivism). 
+This manifesto is **never** finite. It will and can be updated by the community at any time through GitHub Pull Requests. If you'd like to contribute to this manifesto, please directly head to [/manifesto](https://github.com/transcendentprogressivism).
 
 ## Quick References:
 1. Bostrom, Nick. *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press, 2014.
@@ -15,6 +15,8 @@ This manifesto is not finite. It will and can be updated by the community at any
 6. Haraway, Donna J. *A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century*. 1985.
 7. Wilson, Peter Lamborn. *TAZ: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism*. Autonomedia, 1991.
 8. Thiel, P. (2014). *Zero to One: Notes on Startups, or How to Build the Future*. Crown Business.
+
+Put away the pop culture references and turn your brain on. You know the way.
 
 ## Welcome to Transcendent Progressivism.
 In an era where technological advancements rapidly reshape every facet of our lives, humanity stands at a crossroads. The choices we make today will define our future as a species. Will we harness the power of technology to transcend our limitations and create a utopian society, or will we allow these advancements to exacerbate inequality and suffering? Transcendent Progressivism offers a vision for a future where humanity thrives through the ethical and strategic integration of cutting-edge technologies, social liberation, and anarchistic ideals.
