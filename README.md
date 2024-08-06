@@ -220,7 +220,7 @@ Individual autonomy is a fundamental right, encompassing the ability of individu
 
 - **Personal Freedom**: Respect for personal freedom means allowing individuals to pursue enhancements or modifications that align with their values, preferences, and goals. This includes decisions related to physical and mental enhancements, lifestyle changes, and personal health.
 
-- **Privacy and Confidentiality**: Safeguarding privacy and confidentiality is essential for respecting autonomy. Individuals must have control over their personal data and how it is used, particularly in the context of health and enhancement technologies.
+- **Privacy and Confidentiality**: Safeguarding privacy and confidentiality is essential for respecting autonomy. Individuals must have control over their personal data and how it is used, particularly in the context of health and enhancement technologies. Individuals must also have the right to ask for instant removal of their personal data from any platform.
 
 #### Ensuring Equal Access
 
@@ -370,7 +370,7 @@ Ethical Enhancement is a fundamental principle of Transcendent Progressivism, em
 
 #### Respecting Individual Rights
 
-**Privacy Protection**: Technological enhancements often involve the collection and management of sensitive personal data. It is essential to protect individuals’ privacy by implementing robust data security measures and allowing individuals control over their own information.
+**Privacy Protection**: Technological enhancements often involve the collection and management of sensitive personal data. It is essential to protect individuals’ privacy by implementing robust data security measures and allowing individuals control over their own information. This includes requesting the deletion of their informations.
 
 **Autonomy and Choice**: Respecting individual autonomy means recognizing the right of individuals to make their own choices about technological enhancements. Policies and practices should ensure that enhancements are available to those who choose them, without coercion or pressure.
 
@@ -402,7 +402,7 @@ Ethical Enhancement is a fundamental principle of Transcendent Progressivism, em
 
 #### Combating Disease
 
-**Healthcare Access**: Technological advancements in healthcare, such as telemedicine, AI-driven diagnostics, and personalized medicine, can significantly improve access to quality healthcare services. Expanding access to these technologies, especially in underserved and remote areas, is crucial for combating disease and promoting health equity.
+**Healthcare Access**: Technological advancements in healthcare, such as telemedicine, AI-driven diagnostics, and personalized medicine, can significantly improve access to quality healthcare services. Expanding access to these technologies, especially in underserved and remote areas, is crucial for combating disease and promoting health equity. A free healthcare system benefits also in reducing health inequality and enables everyone to use the latest and most efficient technological advancements.
 
 **Preventive Measures**: Focusing on preventive healthcare and early intervention can reduce the burden of disease and improve overall well-being. Initiatives such as widespread vaccination programs, health education, and early screening can help prevent illness and promote healthier communities.
 
