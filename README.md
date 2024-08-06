@@ -49,8 +49,8 @@ Transcendent Progressivism is founded on 14 key principles that guide our vision
 10. **Legalization and Regulation of Drugs**: Advocate for the legalization and regulation of drugs to ensure safe, informed, and responsible use, promoting harm reduction strategies and comprehensive education.
 11. **Transhumanist Ideals**: Embrace the principles of transhumanism, advocating for the evolution of humanity beyond its current physical and mental limitations through advanced technologies and scientific discoveries.
 12. **Sexual Liberation and Acceptance**: We advocate for the freedom of sexual expression and the acceptance of all sexual orientations. A society that respects and celebrates diversity in sexuality is a more inclusive and compassionate one.
-14. **Freedom of Financial Currents**: Economic systems should allow for the free flow of financial resources. We support decentralized financial technologies and practices that empower individuals and communities.
-15. **Anarchist Undertones**: Our movement incorporates elements of anarchism, promoting autonomy, voluntary cooperation, and the dismantling of oppressive structures. Temporary Autonomous Zones (TAZ) and other anarchist principles inspire our vision of a liberated society.
+13. **Freedom of Financial Currents**: Economic systems should allow for the free flow of financial resources. We support decentralized financial technologies and practices that empower individuals and communities.
+14. **Anarchist Undertones**: Our movement incorporates elements of anarchism, promoting autonomy, voluntary cooperation, and the dismantling of oppressive structures. Temporary Autonomous Zones (TAZ) and other anarchist principles inspire our vision of a liberated society.
 
 This whitepaper outlines the foundational concepts of Transcendent Progressivism and provides a roadmap for achieving our vision. We invite thinkers, innovators, policymakers, and citizens from around the world to join us in shaping a future where humanity can flourish through the harmonious integration of technology, social liberation, and decentralized governance.
 
@@ -390,7 +390,7 @@ Ethical Enhancement is a fundamental principle of Transcendent Progressivism, em
 
 **Public Engagement**: Engaging with the public in discussions about the ethical implications of technological enhancements fosters an inclusive dialogue. Public input and feedback are valuable for shaping policies and practices that align with societal expectations and values.
 
-###8. Universal Well-being: Eradicating Poverty, Disease, and Suffering
+### 8. Universal Well-being: Eradicating Poverty, Disease, and Suffering
 
 #### Addressing Poverty
 
