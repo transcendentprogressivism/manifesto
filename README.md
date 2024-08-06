@@ -35,7 +35,7 @@ At the core of Transcendent Progressivism is the belief that human potential can
 
 ### Core Principles
 
-Transcendent Progressivism is founded on 15 key principles that guide our vision and actions:
+Transcendent Progressivism is founded on 14 key principles that guide our vision and actions:
 
 1. **Transcendence through Technology**: Embrace and accelerate the development of technologies that enhance human capabilities and integrate biological and artificial systems to transcend natural human limitations.
 2. **Dynamic Progressivism**: Drive forward societal and technological progress at an optimized pace to ensure sustainable and beneficial advancements.
