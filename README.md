@@ -1,6 +1,6 @@
 # The Transcendent Progressivism (t/prog) Manifesto: A Vision for Humanity's Future
-Authored by [mel (@vmfunc)](https://twitter.com/vmfunc), [giatt (@1owroller)](https://x.com/1owroller), GitHub and anonymous contributors.   
-Version 1.0.0
+Authored by [celeste (@vmfunc)](https://twitter.com/vmfunc), [giatt (@1owroller)](https://x.com/1owroller), GitHub and anonymous contributors.   
+Version 1.0.1
 
 ## Manifesto Information
 
